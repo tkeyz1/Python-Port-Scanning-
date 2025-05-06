@@ -24,8 +24,7 @@ The purpose of python port Scanning is to build a simple and  effective port sca
 - 🧪 **Linux Terminal** – Environment for running and testing the script.
 - 🌐 **Netcat** – Used for validating the scanner's accuracy.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 
 Every screenshot should have some text explaining what the screenshot is about.
 
